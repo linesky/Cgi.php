@@ -1,4 +1,4 @@
-<#!/usr/bin/php
+<!DOCTYPE html #!/usr/bin/php
 >
 <html><body bgcolor="blue">
 <?php
