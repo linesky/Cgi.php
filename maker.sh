@@ -120,9 +120,9 @@ cp  /usr/bin/curl $roots/bin
 cp  /boot/* $roots/boot
 cp  /boot/grub/* $roots/boot/grub
 cp  /boot/grub/*.* $roots/boot/grub
-cp  /*.* /
-cp  /vm*.* /
-cp  /vm*.*.* /
+cp  /*.* $roots
+cp  /vm*.* $roots
+cp  /vm*.*.* $roots
 printf "" > $roots/dev/null
 printf "" > $roots/dev/stdio
 printf "" > $roots/dev/stdout
