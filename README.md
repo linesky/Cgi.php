@@ -1,2 +1,3 @@
-# Cgi.php
-Cgi using php as script runing on host
+# backup.debian
+
+makes a cdrom of command line bash
